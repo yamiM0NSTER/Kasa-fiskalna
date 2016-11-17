@@ -1,0 +1,3 @@
+Apple 2 12
+Pen 4,5 12
+Suma do zapłaty to: 78
